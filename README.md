@@ -1,4 +1,6 @@
 # SafeX - REAL-TIME SECURITY SYSTEM MODEL X (Version 2 - New Update - Beta0.0.4)
+* Hiện tại dự án đã dừng hoạt động và sẽ được lưu trữ như một tài liệu học thuật, không còn liên quan đến bất kì hoạt động thương mại nào nữa
+* The project has now ceased operations and will be stored as an academic document, no longer associated with any commercial activities.
 
 [[X]](https://x.com/mih_cuog)
 [[Info]]()
